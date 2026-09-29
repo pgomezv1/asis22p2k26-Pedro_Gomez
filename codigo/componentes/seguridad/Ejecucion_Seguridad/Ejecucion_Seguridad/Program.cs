@@ -8,7 +8,7 @@ namespace Ejecucion_Seguridad
 {
     internal static class Program
     {
-        /// <summary>
+        /// <summary>fñldkfksdjflñksdjfñlkadsj
         /// Punto de entrada principal para la aplicación.
         /// </summary>
         [STAThread]

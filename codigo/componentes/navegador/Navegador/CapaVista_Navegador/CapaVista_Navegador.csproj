@@ -108,11 +108,11 @@
     <Compile Include="formularios\ClsCrudCoordinador.cs" />
     <Compile Include="formularios\ClsNavegadorAcciones.cs" />
     <Compile Include="ayudas\ClsNavegadorAyuda.cs" />
-    <Compile Include="reportes\FrReporteEmpleados.cs">
+    <Compile Include="Mantenimiento2k26\FrReportePeliculas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="reportes\FrReporteEmpleados.Designer.cs">
-      <DependentUpon>FrReporteEmpleados.cs</DependentUpon>
+    <Compile Include="Mantenimiento2k26\FrReportePeliculas.Designer.cs">
+      <DependentUpon>FrReportePeliculas.cs</DependentUpon>
     </Compile>
     <Compile Include="seguridad\ClsNavegadorSesion.cs" />
     <Compile Include="formularios\ClsCrudEventos.cs" />
@@ -155,10 +155,10 @@
     <EmbeddedResource Include="Navegador.resx">
       <DependentUpon>Navegador.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="reportes\FrReporteEmpleados.resx">
-      <DependentUpon>FrReporteEmpleados.cs</DependentUpon>
+    <EmbeddedResource Include="Mantenimiento2k26\FrReportePeliculas.resx">
+      <DependentUpon>FrReportePeliculas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="reportes\ReporteEmpleado.rdlc" />
+    <EmbeddedResource Include="Mantenimiento2k26\ReportePeliculas.rdlc" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- Inicio - Roger Yankhel de Jesús Herrera Alcántara 0901-23-2429. -->
