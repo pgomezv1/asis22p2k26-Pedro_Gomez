@@ -53,7 +53,7 @@ namespace CapaControlador_Seguridad
         private List<ClsModeloEmpleado> _ListaEmpleado;
 
         public int IdEmpleado { get => _IdEmpleado; set => _IdEmpleado = value; }
-
+        //
         [Required(ErrorMessage = "El campo Código Empleado es requerido")]
         public string CodigoEmpleado { get => _CodigoEmpleado; set => _CodigoEmpleado = value; }
 
