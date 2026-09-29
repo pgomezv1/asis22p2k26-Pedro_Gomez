@@ -1,0 +1,35 @@
+commit 0e57223b6deadc012ca084e9184c81e95b5f2019
+Author: pgomezv1 <pgomezv1@miumg.edu.gt>
+Date:   Tue Sep 29 10:18:06 2026 -0600
+
+    Parcial2
+
+commit 28fea7bbefa011d9ac47e245e383964aed9c69db
+Author: pgomezv1 <pgomezv1@miumg.edu.gt>
+Date:   Tue Sep 29 10:15:27 2026 -0600
+
+    PArcial2_0901-23-4868
+
+commit dbf5681870e15175a8632047f0ee354e5c56909b
+Author: pgomezv1 <pgomezv1@miumg.edu.gt>
+Date:   Tue Sep 29 10:13:57 2026 -0600
+
+    Parcial2_0901234868
+
+commit 00552cae7706d29f58b0623327f3b507483cd196
+Author: pgomezv1 <pgomezv1@miumg.edu.gt>
+Date:   Tue Sep 29 10:11:15 2026 -0600
+
+    Parcial2_0901234868
+
+commit 09c914bc936a71f534d186db4c688e073b58ecb1
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Mon Sep 28 18:43:48 2026 -0600
+
+    Inicial proyecto
+
+commit f414c498afdbaf970217efd1012204fbe9379647
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Mon Sep 28 18:41:50 2026 -0600
+
+    Initial commit
