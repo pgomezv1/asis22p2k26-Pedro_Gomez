@@ -38,14 +38,15 @@
             this.reportViewer1.ServerReport.BearerToken = null;
             this.reportViewer1.Size = new System.Drawing.Size(776, 336);
             this.reportViewer1.TabIndex = 0;
+            this.reportViewer1.Load += new System.EventHandler(this.reportViewer1_Load);
             // 
-            // FrReporteEmpleados
+            // FrReportePeliculas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.reportViewer1);
-            this.Name = "FrReporteEmpleados";
+            this.Name = "FrReportePeliculas";
             this.Text = "FrReporteEmpleados";
             this.Load += new System.EventHandler(this.FrReporteEmpleados_Load);
             this.ResumeLayout(false);

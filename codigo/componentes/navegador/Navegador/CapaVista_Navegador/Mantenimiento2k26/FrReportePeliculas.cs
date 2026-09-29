@@ -12,14 +12,14 @@ using CapaControlador_Seguridad;
 
 namespace CapaVista_Navegador.reportes
 {
-    public partial class FrReporteEmpleados : Form
+    public partial class FrReportePeliculas : Form
     {
         private ClsModeloEmpleado empleado = new ClsModeloEmpleado();
-        public FrReporteEmpleados()
+        public FrReportePeliculas()
         {
             InitializeComponent();
         }
-
+        //
         private void FrReporteEmpleados_Load(object sender, EventArgs e)
         {
             ReportDataSource reportDataSource1 = new ReportDataSource("DataSet1", empleado.SeguridadMetObtenerTodos());
@@ -29,6 +29,11 @@ namespace CapaVista_Navegador.reportes
 
 
             this.reportViewer1.RefreshReport();
+        }
+
+        private void reportViewer1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
